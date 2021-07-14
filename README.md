@@ -1,2 +1,2 @@
-# comp229-w-2020-301109137
+# comp229-w-
 COMP229 Booklist webapp
